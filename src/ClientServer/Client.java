@@ -31,7 +31,7 @@ public class Client {
 		jFrame.setLayout(new BoxLayout(jFrame.getContentPane(), BoxLayout.Y_AXIS));
 		jFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);// program will end when we end the window
 
-		JLabel jlTitle = new JLabel("File Sender");
+		JLabel jlTitle = new JLabel("File Sender-Welcome");
 		jlTitle.setFont(new Font("Arial", Font.BOLD, 25));
 		jlTitle.setBorder(new EmptyBorder(20, 0, 10, 0));
 		jlTitle.setAlignmentX(Component.CENTER_ALIGNMENT);

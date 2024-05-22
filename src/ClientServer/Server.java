@@ -23,7 +23,7 @@ public class Server {
 
 	public static void main(String[] args) throws IOException {
 		int fileId = 0;
-		JFrame jFrame = new JFrame("Server");
+		JFrame jFrame = new JFrame("Server -Welcome");
 		jFrame.setSize(400, 400);
 		jFrame.setLayout(new BoxLayout(jFrame.getContentPane(), BoxLayout.Y_AXIS));
 		jFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
